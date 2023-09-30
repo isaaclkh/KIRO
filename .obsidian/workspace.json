@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e6748d43a6c0fd72",
+        "id": "6ab80901ce5eb2e2",
         "type": "tabs",
         "children": [
           {
-            "id": "773bab53469180a4",
+            "id": "3c90032c167243f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LongTermInteraction_Fullver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27410a5f709ef8ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RobotTrust_Fullver.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RobotTrust_Fullver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RobotTrust_Fullver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RobotTrust_Fullver.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27410a5f709ef8ec",
+  "active": "3c90032c167243f8",
   "lastOpenFiles": [
-    "LongTermInteraction_Fullver.md",
     "RobotTrust_Fullver.md",
+    "LongTermInteraction_Fullver.md",
     "README.md",
     "Untitled.canvas",
     "2023-09-26.md",
