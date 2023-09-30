@@ -128,3 +128,10 @@ url: https://www.mdpi.com/2414-4088/2/4/62
 url : https://www.researchgate.net/profile/Pim-Haselager/publication/268331925_Do_Robot_Performance_and_Behavioral_Style_affect_Human_Trust_A_Multi-Method_Approach/links/55c88e3508aeca747d66e84c/Do-Robot-Performance-and-Behavioral-Style-affect-Human-Trust-A-Multi-Method-Approach.pdf
 요약 : 
 로봇의 사회적 행동의 중요한 측면 중 하나는 적절한 신뢰성을 전달하는 것입니다. 작업 수행이 신뢰성 판단에 중요한 정보원임이 밝혀졌습니다. 여기에서는 로봇의 행동 스타일과 같은 요인들이 중요한 역할을 할 수 있다고 주장합니다. 로봇의 성능과 행동 스타일이 인간의 신뢰에 미치는 영향을 연구하는 우리의 접근 방식은 비디오 인간-로봇 상호작용 (VHRI) 및 몰입형 가상환경 (IVE)에서 시뮬레이션된 로봇과의 실험을 포함합니다. VHRI 및 IVE 환경은 실제 로봇과의 진정한 상호작용을 대체할 수는 없지만, 사회적 인간-로봇 상호작용 분야의 실험적 연구에 유용한 보조적인 접근 방식을 제공할 수 있습니다. VHRI는 로봇 행동의 빠른 프로토타이핑을 가능하게 합니다. IVE에서 인간-로봇 상호작용을 시뮬레이션하는 것은 인간의 로봇에 대한 반응을 측정하는 유용한 도구이며, 실제 하드웨어로 인한 여러 제약 사항을 피하는 데 도움이 될 수 있습니다. 그러나 한 환경 (예: VHRI)에서 얻은 결과를 다른 환경 (예: IVE 또는 실제 세계)로 일반화하는 데 어려움이 있으며, 이에 대해 논의합니다. 이 논문에서는 VHRI에서 애니메이션 로봇 아바타를 사용하여 로봇 행동 스타일이 로봇에 대한 인간의 신뢰 평가에 어떤 영향을 미치는지 빠르게 확인합니다. 이후 연구에서는 VHRI 실험에서 얻은 행동을 갖춘 애니메이션 로봇 아바타와 인간 간의 행동 상호작용을 측정하기 위해 IVE를 사용합니다. 우리의 결과는 로봇의 작업 성능이 그 신뢰성에 영향을 미치지만, VHRI 연구에서 확인된 행동 스타일은 IVE 연구에서 로봇의 신뢰성에 영향을 미치지 않는 것을 재확인합니다.
+
+제목 : Getting to know Pepper: Effects of people's awareness of a robot's capabilities on their trust in the robot
+년도 : 2018
+url : https://uhra.herts.ac.uk/bitstream/handle/2299/21636/getting_to_know_pepper.pdf?sequence=1
+요약 : 이 연구는 사회적 로봇의 능력에 대한 인간의 인식이 이 로봇이 다양한 작업을 처리하는 데 대한 신뢰와 어떤 관련이 있는지 조사합니다. 저희는 참가자들의 신뢰 평가와 다양한 품질 수준에 대한 지식을 관련시키는 사용자 연구를 제시합니다. 중학교 학생들은 비디오 데모, 실제 상호작용 및 프로그래밍 과제 후에 로봇에 대한 신뢰를 평가하도록 요청되었습니다. 연구 결과는 학생들의 신뢰가 각 세션 이후에 다른 도메인에서 긍정적으로 영향을 받아 로봇에 대한 인식이 증가함을 나타내며, 인간 사용자들은 로봇에 대한 인식이 커질수록 더 많은 신뢰를 가진다는 것을 보여줍니다.
+
+제목 : 

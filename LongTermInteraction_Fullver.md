@@ -49,4 +49,17 @@ url : https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a3d447f56ca
 url : https://ieeexplore.ieee.org/abstract/document/1545303 (무료열람 x)
 요약 : 발레리 더 로보 리셉션은 Carnegie Mellon 대학의 소셜 로봇 프로젝트의 가장 최근 추가입니다. 뉴웰-시몬 홀 입구에 영구적으로 설치된 이 로봇은 유용한 기능 - 방향 제시, 날씨 예보 조회 등 -과 흥미로운 매력적인 캐릭터를 결합하고 있습니다. 우리는 발레리를 사용하여 인간-로봇 사회적 상호작용, 특히 장기간의 인간-로봇 "관계"를 조사하고 있습니다. 9개월 동안 많은 방문객이 로봇과 매일 상호작용하는 것으로 발견되었지만 개별 상호작용 중 대부분은 30초 이상 지속되지 않습니다. 데이터 분석을 통해 자연스러운 인간-로봇 상호작용을 용이하게 하는 여러 디자인 결정이 있음을 확인했습니다.
 
+제목 : As Time goes by: Long-term evaluation of social presence in robotic companions
+년도 : 2009
+url : https://www.inesc-id.pt/ficheiros/publicacoes/6182.pdf
+요약 : 로봇 및 합성 캐릭터 기술의 최근 발전을 고려할 때, 많은 연구자들이 이러한 에이전트와 인간 간의 장기간 사회적 관계를 확립하는 방법에 집중하고 있습니다. 초기 연구에서는 로봇과 에이전트의 새로움 효과가 빠르게 사라지며, 사람들이 시간이 지남에 따라 그들에 대한 태도와 선호도를 바꾸는 것을 보여주었습니다. 본 논문에서는 장기간의 인간-로봇 상호작용에서 사회적 존재의 역할을 연구합니다. 우리는 어린이들이 5주 동안 사회적 로봇과 체스 연습을 하는 실험을 수행했습니다. 이 실험을 통해 장기간 상호작용을 위해 사회적 로봇을 설계할 때 고려해야 할 핵심 이슈를 확인했습니다.
 
+제목 : Initial response of autistic children in human-robot interaction therapy with humanoid robot NAO
+년도 : 2012
+url : https://www.researchgate.net/profile/Syamimi-Shamsuddin/publication/254031824_Initial_response_of_autistic_children_in_human-robot_interaction_therapy_with_humanoid_robot_NAO/links/63bf5aa97ecd35045c3d7bc0/Initial-response-of-autistic-children-in-human-robot-interaction-therapy-with-humanoid-robot-NAO.pdf
+요약 : 본 논문에서 제안하는 전반적인 맥락은 자폐 스펙트럼 장애(ASD)를 겪는 커뮤니티에 기여하고자 하는 장기적인 목표 중 일환입니다. 이 논문의 목표는 ASD 어린이가 인간형 로봇 NAO와 접촉하게 될 실험 프로토콜의 개발을 제시하는 것입니다. 이 완전히 프로그래밍 가능한 인간형 로봇은 인간-로봇 상호작용(HRI) 연구를 위한 이상적인 플랫폼을 제공합니다. 이 연구는 어린이들의 초기 반응 및 행동을 관찰하기 위한 기본 조사를 위한 플랫폼 역할을 합니다. 이 시스템은 로봇 자체 시각 시스템 외에도 외부 카메라를 활용합니다. 예상 결과는 ASD 어린이들의 HRI 중의 실제 초기 반응과 반응입니다. 이로써 로봇 기반 HRI을 기반으로 한 ASD 치료에 새로운 절차를 적용하고, 특히 기술 전문가가 아닌 사람이 치료 세션 중에 로봇 기반 개입을 수행할 수 있게 될 것으로 예상됩니다.
+
+제목 : Building up child-robot relationship for therapeutic purposes: From initial attraction towards long-term social engagement
+년도 : 2011
+url : https://upcommons.upc.edu/bitstream/handle/2117/11923/Robot.pdf
+요약 : 본 연구는 로봇과의 사회적 유대 관계의 발생 역학을 탐구합니다. 초등학교에서 11-12세의 6학년 학생 49명과 4개 다른 로봇을 이용한 현장 연구가 진행되었습니다. 이후 4명의 참가자를 대상으로 한 실험실 실험이 수행되었습니다. 첫 번째 경험에서는 학교에서 어린이들의 선호도, 기능 및 의사소통에 대한 기대, 상호작용 행동 등이 연구되었습니다. 실험실에서 수집한 데이터를 사용하여 인식, 파트너 선택 및 이원적 상호작용을 탐구하였습니다. 학교와 실험실에서 직접 관찰된 비디오 녹화, 설문 조사 및 인터뷰 데이터가 수집되었습니다. 결과는 로봇의 다른 외관과 성능이 어린이들에게 독특한 인식과 상호작용 행동을 유발하며, 역할 부여 및 애착과 같은 사회적 과정에 영향을 미친다는 것을 보여주었습니다. 이 연구는 입원 아동들의 삶의 질을 향상시키기 위한 로봇 기반 프로그램의 도입을 탐구하기 위한 예비 현장 연구를 제시합니다.

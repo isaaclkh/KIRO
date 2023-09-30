@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "6c3cc19f3f9dbdf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6748d43a6c0fd72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "773bab53469180a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LongTermInteraction_Fullver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27410a5f709ef8ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RobotTrust_Fullver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d66ccd25ad3a01e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "98813c96f9117924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87eeb82b473f4b84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbc96658251ec53d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdf39dc9a6706584",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65eb205637ce244d",
+    "type": "split",
+    "children": [
+      {
+        "id": "341e584466a17734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f68b451ffe96b42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RobotTrust_Fullver.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca3919eebaa5912e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RobotTrust_Fullver.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67dd6a6146149fce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97db7d54f6c2251b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RobotTrust_Fullver.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "27410a5f709ef8ec",
+  "lastOpenFiles": [
+    "LongTermInteraction_Fullver.md",
+    "RobotTrust_Fullver.md",
+    "README.md",
+    "Untitled.canvas",
+    "2023-09-26.md",
+    "RobotTrust_fullver.md"
+  ]
+}
