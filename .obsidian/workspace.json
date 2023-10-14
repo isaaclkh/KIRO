@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ab80901ce5eb2e2",
+        "id": "881b4ade3a58cfe9",
         "type": "tabs",
         "children": [
           {
-            "id": "3c90032c167243f8",
+            "id": "3a416104e487092a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c90032c167243f8",
+  "active": "3a416104e487092a",
   "lastOpenFiles": [
-    "RobotTrust_Fullver.md",
     "LongTermInteraction_Fullver.md",
+    "Pasted image 20231014184226.png",
+    "RobotTrust_Fullver.md",
     "README.md",
     "Untitled.canvas",
     "2023-09-26.md",
